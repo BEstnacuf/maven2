@@ -64,7 +64,6 @@
 	    <artifactId>guava</artifactId>
 	    <version>26.0-jre</version>
 	</dependency>
-
   </dependencies>
   <build>
     <finalName>maven2</finalName>
@@ -97,7 +96,6 @@
             <password>password</password>
          </configuration>
       </plugin>
-   </plugins>
-    
+   </plugins>    
   </build>
 </project>
